@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Hi, I’m **Onkar Sharma**
+- I’m **Onkar Sharma**
 - I'm a **Full Stack .NET Developer**
-🚀 Full Stack .NET Developer | 🏆 3× C# Corner MVP | ✍️ Technical Writer
-💼 **Current Company:** [Epay Systems (A Vensure Employer Solutions Company)](https://www.vensure.com)
+- 🚀 Full Stack .NET Developer | 🏆 3× C# Corner MVP | ✍️ Technical Writer
+- 💼 **Current Company:** [Epay Systems (A Vensure Employer Solutions Company)](https://www.vensure.com)
 
 :writing_hand: **My Recent Articles**
 
