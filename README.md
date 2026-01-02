@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- My name is **Onkar Sharma**
+- Hi, I’m **Onkar Sharma**
 - I'm a **Full Stack .NET Developer**
-- I have been awarded the **C# Corner MVP** _(Most Valuable Professional)_ **Award** 3 times :trophy:	:trophy:	:trophy:	
-- **Current Company:** [Epay Systems, A Vensure Employer Solutions Company](https://www.vensure.com)
+🚀 Full Stack .NET Developer | 🏆 3× C# Corner MVP | ✍️ Technical Writer
+💼 **Current Company:** [Epay Systems (A Vensure Employer Solutions Company)](https://www.vensure.com)
 
 :writing_hand: **My Recent Articles**
 
