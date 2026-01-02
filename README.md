@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Onkar Sharma
 
-🚀 **Full Stack .NET Developer** | 🏆 **3X C# Corner MVP** | ✍️ Technical Writer  
-💼 [**PrismHR** (A Vensure Employer Solutions Company)](https://www.vensure.com)
+🚀 **Senior Software Engineer (C#, .NET)** | 🏆 **3× C# Corner MVP** | ✍️ **Technical Author (9.5M+ Reads)**
+💼 **PrismHR** (A Vensure Employer Solutions Company)
 
+Senior Software Engineer with 5+ years of experience developing enterprise-grade .NET applications for clients across healthcare, government, and enterprise payroll domains.
 I specialize in building **scalable, secure, and high-performance applications** using the Microsoft technology stack.  
 Passionate about **clean architecture, backend optimization, and sharing knowledge** with the developer community.
 
@@ -42,7 +43,7 @@ Passionate about **clean architecture, backend optimization, and sharing knowled
 
 ## ✍️ Featured Articles
 
-- 🔥 [My Journey From 0 to 5 Million](https://www.c-sharpcorner.com/article/my-journey-from-0-to-5-million/)
+- [My Journey From 0 to 5 Million](https://www.c-sharpcorner.com/article/my-journey-from-0-to-5-million/)
 - [Difference Between Delete, Truncate and Drop in SQL Server](https://www.c-sharpcorner.com/article/difference-between-delete-truncate-and-drop-statements-in-sql-server/)
 - [How to Install Ubuntu on Windows Using VirtualBox](https://www.c-sharpcorner.com/article/how-to-install-ubuntu-on-windows-10-using-virtualbox/)
 
