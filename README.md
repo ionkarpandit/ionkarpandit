@@ -78,4 +78,4 @@ Passionate about **clean architecture, backend optimization, and sharing knowled
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ionkarpandit)
+![](https://komarev.com/ghpvc/?username=ionkarpandit&color=blueviolet)
