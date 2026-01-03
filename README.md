@@ -75,3 +75,7 @@ Passionate about **clean architecture, backend optimization, and sharing knowled
 ## ⚡ Fun Fact
 
 > I enjoy converting **complex backend problems into simple, maintainable solutions**.
+
+---
+
+![](https://komarev.com/ghpvc/?username=ionkarpandit)
