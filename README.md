@@ -1,7 +1,14 @@
 <h1 align="center">👋 Hi, I’m Onkar Sharma</h1>
 
-🚀 **Senior Software Engineer (C#, .NET)** | 🏆 **3× C# Corner MVP** | ✍️ **Technical Author (9.5M+ Reads)**  
-💼 **PrismHR** (A Vensure Employer Solutions Company)
+<p align="center">
+  🚀 <b>Senior Software Engineer (C#, .NET)</b> |
+  🏆 <b>3× C# Corner MVP</b> |
+  ✍️ <b>Technical Author (9.5M+ Reads)</b>
+</p>
+
+<p align="center">
+  💼 <b>PrismHR</b> (A Vensure Employer Solutions Company)
+</p>
 
 **Senior Software Engineer** with **5+ years of experience** developing enterprise-grade .NET applications for clients across healthcare, government, and enterprise payroll domains.  
 I specialize in building **scalable, secure, and high-performance applications** using the Microsoft technology stack.  
