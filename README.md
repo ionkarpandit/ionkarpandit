@@ -16,19 +16,6 @@ Passionate about **clean architecture, backend optimization, and sharing knowled
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ionkarpandit&style=flat-square" />
-  <img src="https://img.shields.io/badge/C%23-.NET-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-Engineer-success?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ionkarpandit&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ionkarpandit" height="165"/>
-</p>
-
----
-
 ## 🧠 Tech Stack & Expertise
 
 ### Backend
@@ -82,6 +69,18 @@ Passionate about **clean architecture, backend optimization, and sharing knowled
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ionkarpandit" />
+  <img src="https://img.shields.io/badge/C%23-.NET-blue" />
+  <img src="https://img.shields.io/badge/Software-Engineer-success" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ionkarpandit&show_icons=true&theme=default" height="165"/>
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 - 💼 **LinkedIn:** https://in.linkedin.com/in/ionkarpandit
@@ -96,6 +95,3 @@ Passionate about **clean architecture, backend optimization, and sharing knowled
 
 > I enjoy converting **complex backend problems into simple, maintainable solutions**.
 
----
-
-![](https://komarev.com/ghpvc/?username=ionkarpandit)
