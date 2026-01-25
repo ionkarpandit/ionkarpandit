@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Onkar Sharma
+<h1 align="center">👋 Hi, I’m Onkar Sharma</h1>
 
 🚀 **Senior Software Engineer (C#, .NET)** | 🏆 **3× C# Corner MVP** | ✍️ **Technical Author (9.5M+ Reads)**  
 💼 **PrismHR** (A Vensure Employer Solutions Company)
