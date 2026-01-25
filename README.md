@@ -69,18 +69,6 @@ Passionate about **clean architecture, backend optimization, and sharing knowled
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ionkarpandit" />
-  <img src="https://img.shields.io/badge/C%23-.NET-blue" />
-  <img src="https://img.shields.io/badge/Software-Engineer-success" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ionkarpandit&show_icons=true&theme=default" height="165"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 **LinkedIn:** https://in.linkedin.com/in/ionkarpandit
@@ -88,6 +76,18 @@ Passionate about **clean architecture, backend optimization, and sharing knowled
 - 🐦 **Twitter / X:** https://twitter.com/ionkarpandit
 - 📷 **Instagram:** https://www.instagram.com/ionkarpandit/
 - 🌐 **GitHub:** https://github.com/onkarprismhrlive
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ionkarpandit&show_icons=true&theme=default" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ionkarpandit" />
+  <img src="https://img.shields.io/badge/C%23-.NET-blue" />
+  <img src="https://img.shields.io/badge/Software-Engineer-success" />
+</p>
 
 ---
 
