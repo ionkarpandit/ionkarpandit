@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I’m Onkar Sharma</h1>
 
-<p align="center" class="mb-2">
+<p align="center" style="margin-bottom: 4px;">
   🚀 <b>Senior Software Engineer (C#, .NET)</b> |
   🏆 <b>3× C# Corner MVP</b> |
   ✍️ <b>Technical Author (9.5M+ Reads)</b>
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 0;">
   💼 <b>PrismHR</b> (A Vensure Employer Solutions Company)
 </p>
 
