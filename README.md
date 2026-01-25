@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Onkar Sharma</h1>
 
-<p align="center">
+<p align="center" style="margin-bottom: 5px;">
   🚀 <b>Senior Software Engineer (C#, .NET)</b> |
   🏆 <b>3× C# Corner MVP</b> |
   ✍️ <b>Technical Author (9.5M+ Reads)</b>
