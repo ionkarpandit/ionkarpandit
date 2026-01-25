@@ -16,6 +16,19 @@ Passionate about **clean architecture, backend optimization, and sharing knowled
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ionkarpandit&style=flat-square" />
+  <img src="https://img.shields.io/badge/C%23-.NET-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Engineer-success?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ionkarpandit&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ionkarpandit" height="165"/>
+</p>
+
+---
+
 ## 🧠 Tech Stack & Expertise
 
 ### Backend
