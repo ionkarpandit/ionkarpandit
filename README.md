@@ -71,6 +71,7 @@ Passionate about **clean architecture, backend optimization, and sharing knowled
 
 ## 🤝 Connect With Me
 
+- 🌐 **Portfolio:** https://ionkarpandit.github.io
 - 💼 **LinkedIn:** https://in.linkedin.com/in/ionkarpandit
 - ✍️ **Medium:** https://medium.com/@ionkarpandit
 - 🐦 **Twitter / X:** https://twitter.com/ionkarpandit
