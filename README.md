@@ -7,7 +7,11 @@
 </p>
 
 <p align="center" style="margin-top: 0;">
-  💼 <b>PrismHR</b> (A Vensure Employer Solutions Company)
+  💼 <b>TELUS Digital</b>
+</p>
+
+<p align="center" style="margin-top: 0;">
+  💼 <b>Ex-PrismHR</b> (A Vensure Employer Solutions Company)
 </p>
 
 **Senior Software Engineer** with **5+ years of experience** developing enterprise-grade .NET applications for clients across healthcare, government, and enterprise payroll domains.  
